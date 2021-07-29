@@ -1,0 +1,51 @@
+Professor, já enviei o meu website para o AwardSpace, mas creio que como são muitos arquivos,
+ainda esteja carregando, por que não aparece para mim ainda.
+
+--------------------------------
+
+A dupla é composta por:
+
+Alison Christian
+
+Felipe Carvalho
+
+-------------------------------
+
+ETEC Cidade Tiradentes - 2021
+
+2º B - Desenvolvimento de Sistemas
+
+Programação web II
+
+Tarefa para entrega até o dia 28/07
+
+-------------------------------
+
+Links da hospedagem:
+
+Alison - etec199-2020-alisoncarvalho1.atwebpages.com/2021/ProjetoPHPCALC02/
+Filipe - etec199-2020-filipeaugusto.atwebpages.com/2021/projetoCalc02/
+
+~~ O projeto também está sendo upado para o meu GITHUB ~~
+
+Link: github.com/AlisonChs
+
+-------------------------------
+
+Resumo:
+
+Utilizamos o PHP para realizar os cálculos, como o senhor pediu.
+Utilizamos um pouco do meu conhecimento de animações em CSS e uma animação em JS para estilizar, mesmo tendo pouco tempo.
+Alguns bugs/melhorias não foram feitas pelo pouco tempo.
+Não foi usado nenhum template ou código pronto.
+
+-------------------------------
+
+Obrigado e tenha uma boa noite!
+ 
+-- Alison
+
+𝓟𝓗𝓟
+
+
+
