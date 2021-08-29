@@ -3,4 +3,5 @@ Este repositório tem como objetivo armazenar os arquivos designados para uma ta
 
 Veja o resultado aproximado no link abaixo:
 
-https://bit.ly/3gJxktf
+[![HOSPEDAGEM Badge](https://img.shields.io/badge/-HOSPEDAGEM-black?style=for-the-badge&link=https://bit.ly/3gJxktf)](https://bit.ly/3gJxktf)
+
